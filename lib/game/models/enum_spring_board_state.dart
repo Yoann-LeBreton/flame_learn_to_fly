@@ -1,0 +1,1 @@
+enum SpringBoardState { down, up }

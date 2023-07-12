@@ -1,0 +1,1 @@
+enum EnemyPlatformState { only }

@@ -1,0 +1,1 @@
+enum NormalPlatformState { only }
